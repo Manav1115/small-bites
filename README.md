@@ -24,6 +24,8 @@ Small Bites is a smart canteen application designed to modernize the campus food
 *   **Analytics Dashboard:** Insights into total orders, revenue statistics, and top-selling items.
 *   **View User Reviews:** Access user feedback to improve service and quality.
 
+## Video Demo
+[LINK](https://drive.google.com/file/d/1-Hx44CYYEqdL0p99l033vAySdOYgjcN5/view?usp=drive_link)
 ## Getting Started (Development)
 
 This project uses Expo.
@@ -51,6 +53,7 @@ The project follows a standard Expo project structure with file-based routing in
 *   `context/`: React Context providers (e.g., OrderContext).
 *   `functions/`: Firebase Cloud Functions (e.g., for payment integration).
 *   `lib/`: Core logic, hooks, services (Auth, Firebase, etc.).
+
 
 ## Learn More
 
